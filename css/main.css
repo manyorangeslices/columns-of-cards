@@ -120,10 +120,12 @@ img {
 .btn:hover {
   background-color: #000;
   color: #fff;
+  border-radious: 8px;
 }
 
 .btn-small {
   font-size: .875rem;
+  font-color: white;
 }
 
 body {
